@@ -1,9 +1,9 @@
 class School
   
-  @@roster = []
+  @@new = []
   
   def add_student(student_name, grade)
-    @@roster << add_student  
+    @@new << add_student  
   end 
     
     def grade
